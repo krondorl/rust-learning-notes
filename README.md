@@ -14,6 +14,8 @@ I have been working professionally since 2007 as a front-end developer. My usual
 
 ## Setting Up Development Environment
 
+![VS Code - Rust development environment](img/vs-code-rust.png)
+
 [Guide for using Rust in VS Code](https://code.visualstudio.com/docs/languages/rust).
 
 ## Rust by Example
