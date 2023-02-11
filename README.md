@@ -34,6 +34,15 @@ Recommended subjects:
 * [Result](https://doc.rust-lang.org/rust-by-example/error/result.html)
 * [Option](https://doc.rust-lang.org/std/option/index.html)
 
+## Recommended Books
+
+* The Rust Programming Language
+  * [free online version](https://doc.rust-lang.org/book/)
+  * [paid book and ebook](https://nostarch.com/rust-programming-language-2nd-edition)
+* Rust in Action
+  * [publisher's book page](https://www.manning.com/books/rust-in-action)
+  * [Amazon profile page](https://www.amazon.com/Rust-Action-TS-McNamara/dp/1617294551)
+
 ## Picture credit
 
 [Rusty Metal Vectors by Vecteezy.](https://www.vecteezy.com/free-vector/rusty-metal)
