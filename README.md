@@ -1,6 +1,6 @@
 # Rust Learning Notes
 
-![Rusty texture](iron-texture-background-2.jpg)
+![Rusty texture](img/iron-texture-background-2.jpg)
 
 ## How to Learn Rust
 
