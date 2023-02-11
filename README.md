@@ -18,7 +18,7 @@ I have been working professionally since 2007 as a front-end developer. My usual
 
 ## Rust by Example
 
-A very practical learning resource is [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/), which features runnables examples and ideas.
+A very practical learning resource is [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/), which features runnables, examples and ideas.
 
 ## Topics
 
