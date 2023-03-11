@@ -55,6 +55,11 @@ This video class was excellent:
 * there were many excercise tasks
 * the teacher has humor and a great voice
 
+## Microsoft Learn Courses
+
+* [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
+* [Beginner's Series to Rust](https://learn.microsoft.com/en-us/shows/beginners-series-to-rust/)
+
 ## Macros
 
 I have never used macros before with a programming language, so this was very new for me.
