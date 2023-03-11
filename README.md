@@ -55,10 +55,16 @@ This video class was excellent:
 * there were many excercise tasks
 * the teacher has humor and a great voice
 
-## Microsoft Learn Courses
+## Free Learning Courses
+
+### Microsoft
 
 * [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
 * [Beginner's Series to Rust](https://learn.microsoft.com/en-us/shows/beginners-series-to-rust/)
+
+### Google
+
+[Comprehensive Rust](https://google.github.io/comprehensive-rust/welcome.html)
 
 ## Macros
 
