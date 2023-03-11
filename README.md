@@ -36,6 +36,11 @@ Recommended subjects:
 * [Result](https://doc.rust-lang.org/rust-by-example/error/result.html)
 * [Option](https://doc.rust-lang.org/std/option/index.html)
 
+## Beginner Resources
+
+* [Tour of Rust](https://tourofrust.com/index.html)
+* [Easy Rust](https://dhghomon.github.io/easy_rust/)
+
 ## Recommended Books
 
 * The Rust Programming Language
