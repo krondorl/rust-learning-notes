@@ -30,54 +30,43 @@ Watch Tim's short introductory video: [Rust Linz, June 2021 - Tim McNamara - How
 
 Recommended subjects:
 
-* [Structures (structs)](https://doc.rust-lang.org/rust-by-example/custom_types/structs.html)
-* [Vectors](https://doc.rust-lang.org/rust-by-example/std/vec.html)
-* [Iteration](https://doc.rust-lang.org/rust-by-example/flow_control/for.html)
-* [Result](https://doc.rust-lang.org/rust-by-example/error/result.html)
-* [Option](https://doc.rust-lang.org/std/option/index.html)
+- [Structures (structs)](https://doc.rust-lang.org/rust-by-example/custom_types/structs.html)
+- [Vectors](https://doc.rust-lang.org/rust-by-example/std/vec.html)
+- [Iteration](https://doc.rust-lang.org/rust-by-example/flow_control/for.html)
+- [Result](https://doc.rust-lang.org/rust-by-example/error/result.html)
+- [Option](https://doc.rust-lang.org/std/option/index.html)
 
 ## Beginner Resources
 
-* [Tour of Rust](https://tourofrust.com/index.html)
-* [Easy Rust](https://dhghomon.github.io/easy_rust/)
+- [Tour of Rust](https://tourofrust.com/index.html)
+- [Easy Rust](https://dhghomon.github.io/easy_rust/)
 
 ## Recommended Books
 
-* The Rust Programming Language
-  * [free online version](https://doc.rust-lang.org/book/)
-  * [paid book and ebook](https://nostarch.com/rust-programming-language-2nd-edition)
-* Rust in Action
-  * [publisher's book page](https://www.manning.com/books/rust-in-action)
-  * [Amazon profile page](https://www.amazon.com/Rust-Action-TS-McNamara/dp/1617294551)
+- The Rust Programming Language
+  - [free online version](https://doc.rust-lang.org/book/)
+  - [paid book and ebook](https://nostarch.com/rust-programming-language-2nd-edition)
+- Rust in Action
+  - [publisher's book page](https://www.manning.com/books/rust-in-action)
+  - [Amazon profile page](https://www.amazon.com/Rust-Action-TS-McNamara/dp/1617294551)
 
 ## Recommended Paid Courses
 
-[Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/)
-
-This video class was excellent:
-
-* the content was well structured and not overly long
-* there were many excercise tasks
-* the teacher has humor and a great voice
+- [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/)
+- [Rust for TypeScript Developers](https://frontendmasters.com/courses/rust-ts-devs/)
+- [The Rust Programming Language](https://frontendmasters.com/courses/rust/)
 
 ## Free Learning Courses
 
-### Microsoft
-
-* [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
-* [Beginner's Series to Rust](https://learn.microsoft.com/en-us/shows/beginners-series-to-rust/)
-
-### Google
-
-[Comprehensive Rust](https://google.github.io/comprehensive-rust/welcome.html)
+- [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
+- [Beginner's Series to Rust](https://learn.microsoft.com/en-us/shows/beginners-series-to-rust/)
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/welcome.html)
 
 ## Macros
 
-I have never used macros before with a programming language, so this was very new for me.
-
-* [Macros in Rust: A tutorial with examples](https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/)
-* [How I Learned to Stop Worrying and Love Macros](https://zdimension.fr/how-i-learned-to-stop-worrying-and-love-macros/)
-* [A Beginner’s Guide to Rust Macros](https://medium.com/@phoomparin/a-beginners-guide-to-rust-macros-5c75594498f1)
+- [Macros in Rust: A tutorial with examples](https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/)
+- [How I Learned to Stop Worrying and Love Macros](https://zdimension.fr/how-i-learned-to-stop-worrying-and-love-macros/)
+- [A Beginner’s Guide to Rust Macros](https://medium.com/@phoomparin/a-beginners-guide-to-rust-macros-5c75594498f1)
 
 ## Picture credit
 
