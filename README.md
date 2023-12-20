@@ -2,7 +2,7 @@
 
 ![Rusty texture](img/iron-texture-background-2.jpg)
 
-## How to Learn Rust
+## Motivation
 
 On 3rd February 2023, I got a big inspiration to learn Rust thanks for this [Syntax.fm interview with Tim McNamara](https://syntax.fm/show/571/supper-club-rust-in-action-with-tim-mcnamara).
 
