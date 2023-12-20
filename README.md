@@ -41,6 +41,12 @@ Recommended subjects:
 - [Tour of Rust](https://tourofrust.com/index.html)
 - [Easy Rust](https://dhghomon.github.io/easy_rust/)
 
+## Youtube channels
+
+- [Let's Get Rusty](https://www.youtube.com/@letsgetrusty)
+- [No Boilerplate](https://www.youtube.com/@NoBoilerplate)
+- [Code to the Moon](https://www.youtube.com/@codetothemoon)
+
 ## Recommended Books
 
 - The Rust Programming Language
