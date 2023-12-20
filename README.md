@@ -47,7 +47,7 @@ Recommended subjects:
 - [No Boilerplate](https://www.youtube.com/@NoBoilerplate)
 - [Code to the Moon](https://www.youtube.com/@codetothemoon)
 
-## Recommended Books
+## Books
 
 - The Rust Programming Language
   - [free online version](https://doc.rust-lang.org/book/)
@@ -56,13 +56,13 @@ Recommended subjects:
   - [publisher's book page](https://www.manning.com/books/rust-in-action)
   - [Amazon profile page](https://www.amazon.com/Rust-Action-TS-McNamara/dp/1617294551)
 
-## Recommended Paid Courses
+## Paid Courses
 
 - [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/)
 - [Rust for TypeScript Developers](https://frontendmasters.com/courses/rust-ts-devs/)
 - [The Rust Programming Language](https://frontendmasters.com/courses/rust/)
 
-## Free Learning Courses
+## Free Courses
 
 - [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
 - [Beginner's Series to Rust](https://learn.microsoft.com/en-us/shows/beginners-series-to-rust/)
@@ -73,6 +73,10 @@ Recommended subjects:
 - [Macros in Rust: A tutorial with examples](https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/)
 - [How I Learned to Stop Worrying and Love Macros](https://zdimension.fr/how-i-learned-to-stop-worrying-and-love-macros/)
 - [A Beginner’s Guide to Rust Macros](https://medium.com/@phoomparin/a-beginners-guide-to-rust-macros-5c75594498f1)
+
+## License
+
+Please see the description in [LICENSE](LICENSE).
 
 ## Picture credit
 
